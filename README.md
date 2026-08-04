@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Website Testing with Burp Suite<br>I'm looking forward for some collaboration to learn, grow<br>and find bugs together.<br>Here's a fun fact. I've learned Cybersecurity and Ethical<br>Hacking and now I'm doing pentests and bounty hunting. 
+I'm currently SWE at Globallogic<br>I'm looking forward for some collaboration to learn, grow<br>Here's a fun fact. I've learned Cybersecurity and Ethical<br>Hacking and I've also done pentest and bounty hunting. 
 
 
 ## 🌐 Socials:
