@@ -58,7 +58,7 @@ A full-stack banking application that supports account management, transaction t
 
 `Next.js` `TypeScript` `Appwrite` `Plaid API` `React`
 
-[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HiManShU-989/Horizon-Banking-API)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HiManShU-989/Horizon_Banking_API)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://horizon-banking-api.vercel.app)
 
 </td>
